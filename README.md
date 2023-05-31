@@ -4,7 +4,7 @@
 Control Flow Graph
 
 
-![nesh](screenshots/cfg1.png)
+![cfg1](https://github.com/andrijanaarsovska/SI_2023_lab2_213072/assets/129632251/226552e2-0446-48dc-b069-187f4d547c16)
 
 
 
