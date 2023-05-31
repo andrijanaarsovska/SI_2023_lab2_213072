@@ -3,8 +3,8 @@
 
 Control Flow Graph
 
-![cfg](https://github.com/andrijanaarsovska/SI_2023_lab2_213072/assets/129632251/51270744-4e92-43f5-a22b-3711f38c1967)
 
+![Screenshot 2023-05-31 184012](https://github.com/andrijanaarsovska/SI_2023_lab2_213072/assets/129632251/e28bf5cc-3d36-4160-a232-472ee6408466)
 
 
 
